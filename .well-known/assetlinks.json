@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "travel.ozon.mobile.qa.debug",
+      "sha256_cert_fingerprints": [
+        "17:23:46:9D:9D:7B:53:29:90:DF:65:D5:58:E0:3C:C9:97:79:34:B4:BD:B8:7E:D7:0B:07:27:18:8B:8D:10:C5"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "travel.ozon.mobile.qa",
+      "sha256_cert_fingerprints": [
+        "EC:BE:03:03:D8:C1:77:37:9B:37:CF:F4:53:AF:DC:0A:81:A1:7A:83:CC:8D:08:93:BB:F3:93:23:D0:B2:A5:48"
+      ]
+    }
+  }
+]
